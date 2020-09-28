@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8f0c4c0-d783-49f3-9d60-205f562f9c74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" port="9000" />
+  <component name="ProjectId" id="1gdr3AxAdb6DuhyvQhg7IeyHFbt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.php.debug.xdebug.proxy" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8f0c4c0-d783-49f3-9d60-205f562f9c74" name="Default Changelist" comment="" />
+      <created>1598455110123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598455110123</updated>
+      <workItem from="1598455111595" duration="903000" />
+      <workItem from="1598464730036" duration="1160000" />
+      <workItem from="1598469461442" duration="610000" />
+      <workItem from="1598509154058" duration="5404000" />
+      <workItem from="1598514939972" duration="271000" />
+      <workItem from="1598777051673" duration="720000" />
+      <workItem from="1599501039199" duration="1727000" />
+      <workItem from="1599550652258" duration="63000" />
+      <workItem from="1600687844686" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="1437" width="561" height="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598513862430">
+      <screen x="0" y="0" width="2560" height="2160" />
+    </state>
+    <state x="685" y="1437" width="561" height="407" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.2160@0.0.2560.2160" timestamp="1598513862430" />
+    <state x="606" y="1381" width="380" height="508" key="FileChooserDialogImpl" timestamp="1599502765763">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="743" y="1391" width="424" height="491" key="FileChooserDialogImpl/0.0.2560.2160@0.0.2560.2160" timestamp="1598513477995" />
+    <state x="606" y="1381" width="380" height="508" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.2560.1080@0.1080.1920.1080" timestamp="1599502765763" />
+  </component>
+</project>
