@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f0c4c0-d783-49f3-9d60-205f562f9c74" name="Default Changelist" comment="" />
+    <list default="true" id="f8f0c4c0-d783-49f3-9d60-205f562f9c74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/search-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/search-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/useful-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/useful-links.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,10 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -22,6 +31,7 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" port="9000" />
   <component name="ProjectId" id="1gdr3AxAdb6DuhyvQhg7IeyHFbt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,11 +75,23 @@
       <workItem from="1599501039199" duration="1727000" />
       <workItem from="1599550652258" duration="63000" />
       <workItem from="1600687844686" duration="244000" />
+      <workItem from="1601307581315" duration="2885000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -84,5 +106,21 @@
     </state>
     <state x="743" y="1391" width="424" height="491" key="FileChooserDialogImpl/0.0.2560.2160@0.0.2560.2160" timestamp="1598513477995" />
     <state x="606" y="1381" width="380" height="508" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.2560.1080@0.1080.1920.1080" timestamp="1599502765763" />
+    <state x="803" y="453" width="314" height="207" key="Github.ShareDialog" timestamp="1601309536959">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="803" y="453" width="314" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601309536959" />
+    <state x="727" y="251" width="456" height="611" key="Github.UntrackedFilesDialog" timestamp="1601309545949">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="727" y="251" width="456" height="611" key="Github.UntrackedFilesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601309545949" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601311240521">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1601311240521" />
+    <state x="726" y="454" width="458" height="205" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601309838811">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="726" y="454" width="458" height="205" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601309838811" />
   </component>
 </project>
